@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/thiagocorrea/Documents/dev/devops-projects/ubuntu","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
